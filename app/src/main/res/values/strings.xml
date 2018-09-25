@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Widgets</string>
+    <string name="course_prompt">course_prompt</string>
+    <string-array name="course_array">
+        <item>COMP3150</item>
+        <item>COMP1603</item>
+    </string-array>
+</resources>
