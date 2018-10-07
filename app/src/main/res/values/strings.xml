@@ -3,6 +3,9 @@
     <string name="course_prompt">course_prompt</string>
     <string-array name="course_array">
         <item>COMP3150</item>
+        <item>COMP3275</item>
         <item>COMP1603</item>
+        <item>COMP1602</item>
+        <item>COMP1601</item>
     </string-array>
 </resources>
