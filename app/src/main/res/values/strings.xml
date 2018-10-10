@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Select Your Kind Of Pizza</string>
+    <string name="app_name">Pizza App</string>
     <string name="course_prompt">size_prompt</string>
 
     <string-array name="sizes">
@@ -8,6 +8,6 @@
         <item>Large</item>
         <item>Extra Large</item>
     </string-array>
-    <string name="title_activity_select_pizza">SelectPizza</string>
+    <string name="title_activity_select_pizza">Select Your Kind Of Pizza</string>
 
 </resources>
