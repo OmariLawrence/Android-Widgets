@@ -20,7 +20,11 @@
         </activity>
         <activity
             android:name=".SelectPizza"
-            android:label="@string/title_activity_select_pizza"></activity>
+            android:label="@string/title_activity_select_pizza" />
+        <activity
+            android:name=".DetailsPage"
+            android:label="@string/title_activity_details_page"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

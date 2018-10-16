@@ -9,5 +9,6 @@
         <item>Extra Large</item>
     </string-array>
     <string name="title_activity_select_pizza">Select Your Kind Of Pizza</string>
+    <string name="title_activity_details_page">DetailsPage</string>
 
 </resources>
