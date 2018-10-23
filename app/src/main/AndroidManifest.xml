@@ -24,7 +24,8 @@
         <activity
             android:name=".DetailsPage"
             android:label="@string/title_activity_details_page"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Calculation"></activity>
     </application>
 
 </manifest>
