@@ -8,4 +8,5 @@
         <item>COMP1602</item>
         <item>COMP1601</item>
     </string-array>
+    <string name="title_activity_intent_screen">IntentScreen</string>
 </resources>
